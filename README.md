@@ -6,7 +6,7 @@ This is autoinstall GenieACS
 apt install git curl -y
 ```
 ```
-git clone https://github.com/rznetwork-imy/genieacsdark
+git clone https://github.com/rznetwork-imy/genieacs
 ```
 ```
 cd genieacs
